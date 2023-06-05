@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "title": "Tugas 1",
+      "description": "Deskripsi tugas 1 lorem ipsum dolor sit amet.",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Tugas 2",
+      "description": "Deskripsi tugas 2 lorem ipsum dolor sit amet.",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "title": "Tugas 3",
+      "description": "Deskripsi tugas 3 lorem ipsum dolor sit amet.",
+      "completed": false
+    }
+  ]
+  
